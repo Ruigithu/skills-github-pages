@@ -1,1 +1,8 @@
 theme: minima
+header_pages:
+  - backend/index.md
+  - frontend/index.md
+  - devops/index.md
+  - algorithm/index.md
+  - notes/index.md
+  - projects/index.md
