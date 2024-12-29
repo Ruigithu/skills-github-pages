@@ -3,19 +3,19 @@ title: "My-First-Blog"
 date: 2024-12-29
 ---
 
-#markdown file grammar
+# markdown file grammar
 
-##title
+## title
 
 the amount of "#" represents the levels of the title
 
-##emphsis
+## emphsis
 
 one asterisk *Italic*
 two asterisks **Bold**
 three asterisks ***Italic and Bold***
 
-##list
+## list
 
 ### unordered list
 *+ title one
@@ -24,20 +24,20 @@ three asterisks ***Italic and Bold***
 ### ordered list
 1.title one
 
-##links
+## links
 
 [GitHub](https://github.com)
 
-##image
+## image
 
 ![myself](https://github.com)
 
-##references
+## references
 
 use >
 >this is a blank quote
 
-##code
+## code
 
 inline code `System.out.println("Hello World!");`
 multi-line code 
@@ -47,13 +47,13 @@ multi-line code
   System.out.println("Hello World!");
 ```
 
-##Horizontal Line
+## Horizontal Line
 
 ---
 ***
 ___
 
-##forms
+## forms
 
 | 姓名 | 年龄 | 城市 |
 |------|------|------|
@@ -61,13 +61,13 @@ ___
 | 小红 | 22   | 上海 |
 
 
-##task list
+## task list
 
 - [x] 完成任务 1
 - [ ] 未完成任务 2
 - [ ] 未完成任务 3
 
-##Code highlighting
+## Code highlighting
 
 ```java
 public class HelloWorld {
