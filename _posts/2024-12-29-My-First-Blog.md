@@ -6,7 +6,7 @@ date: 2024-12-29
 # markdown file grammar
 
 ## title
-`<span style="color:red">the amount of "#" represents the levels of the title</span>`
+```<span style="color:red">the amount of "#" represents the levels of the title</span>
 
 
 ## emphsis
