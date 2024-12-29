@@ -18,11 +18,11 @@ three asterisks ***Italic and Bold***
 ## list
 
 ### unordered list
-*+ title one
-*- title one.one
++ title one
+- title one.one
 
 ### ordered list
-1.title one
+1. title one
 
 ## links
 
